@@ -1,0 +1,3 @@
+[submodule "plugin/blocker"]
+	path = plugin/blocker
+	url = https://github.com/icyflame/blocker.git
